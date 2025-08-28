@@ -30,14 +30,14 @@ Cada intento recibe una pista indicando si el número secreto es mayor o menor, 
 1. **Clonar el repositorio**
 
    ```bash
-   git clone https://github.com/AsmadChiaJeniferDarlyn/Juego-numero-secreto.git
+   git clone https://github.com/AsmadChiaJeniferDarlyn/juego-numero-secreto.git
    ```
 
 2. **Abrir el proyecto**
    Navega hasta la carpeta del proyecto:
 
    ```bash
-   cd Juego-numero-secreto
+   cd juego-numero-secreto
    ```
 
 3. **Ejecutar el juego**
